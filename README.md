@@ -1,6 +1,6 @@
 # dam_u4_proyecto1_19400633
 
-Proyecto 1
+Proyecto 1 - CocheTec
 
 ## Getting Started
 
