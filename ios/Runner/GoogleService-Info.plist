@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>657406810852-svgv2hu2l0ugq7dc994o059qodrpgkg7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.657406810852-svgv2hu2l0ugq7dc994o059qodrpgkg7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMYfJiJS8D7O6NuNfV5JTLmjCsOKKn_PA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>657406810852</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.edu.ittepic.damU4Proyecto119400633</string>
+	<key>PROJECT_ID</key>
+	<string>dam1-cior</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dam1-cior.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:657406810852:ios:5f8cd0830bc25b56da2af1</string>
+</dict>
+</plist>
